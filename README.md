@@ -98,11 +98,3 @@ customer-health-risk-app/
 | `predict_proba()` not just `predict()` | Shows confidence, not just class — more useful for users |
 | Plotly over matplotlib | Interactive charts render natively in Streamlit |
 
----
-
-## Deploy on Streamlit Cloud
-
-1. Push repo to GitHub (including `.joblib` files)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. New app → select repo → `main` branch → `app.py`
-4. Deploy — live URL in ~2 minutes
