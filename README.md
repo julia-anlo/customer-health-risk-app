@@ -3,7 +3,7 @@
 
 **Author:** Julia Anglada Lomaeva  
 **Stack:** Python · Streamlit · scikit-learn · Plotly  
-**Live app:** [obesity-risk-app.streamlit.app](LINK)  
+**Live app:** [obesity-risk-app.streamlit.app](https://customer-health-risk-app-jeq2vsnmwtabjeforkgvtj.streamlit.app/Risk_Predictor)  
 **Part of:** [Obesity & Lifestyle Analytics](https://github.com/julia-anlo/obesity-lifestyle-analytics)
 
 ---
