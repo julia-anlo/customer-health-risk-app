@@ -178,15 +178,3 @@ fig_comp.update_layout(
 )
 fig_comp.update_traces(textposition='outside')
 st.plotly_chart(fig_comp, use_container_width=True)
-```
-
----
-
-## `requirements.txt`
-```
-streamlit>=1.32.0
-scikit-learn>=1.4.0
-pandas>=2.0.0
-numpy>=1.26.0
-plotly>=5.18.0
-joblib>=1.3.0
