@@ -165,7 +165,7 @@ fig_comp = px.bar(
     hover_data  = ['Type']
 )
 fig_comp.add_vline(x=90, line_dash='dot',
-                   line_color='#52B78866',
+                   line_color='rgba(82,183,136,0.4)',
                    annotation_text="90% threshold",
                    annotation_font_color='#52B788')
 fig_comp.update_layout(
