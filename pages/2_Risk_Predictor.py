@@ -106,7 +106,8 @@ with col2:
     ncp    = st.slider("🍽️ Meals per day",           1.0, 4.0, 3.0, step=0.5)
     ch2o   = st.slider("💧 Water intake (1=low · 3=high)",
                        1.0, 3.0, 2.0, step=0.1)
-    faf    = st.slider("🏃 Physical activity (days/week)", 0.0, 3.0, 1.0, step=0.5)
+    faf = st.slider("🏃 Physical activity frequency (0=none · 3=very active)",
+                0.0, 3.0, 1.0, step=0.5)
     tue    = st.slider("📱 Screen time (0=low · 2=high)",  0.0, 2.0, 1.0, step=0.1)
 
 # ── PREDICT ───────────────────────────────────────────────────
