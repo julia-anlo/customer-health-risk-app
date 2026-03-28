@@ -2,8 +2,11 @@
 ### An interactive ML-powered health risk assessment tool
 
 **Author:** Julia Anglada Lomaeva  
+
 **Stack:** Python · Streamlit · scikit-learn · Plotly  
+
 **Part of:** [Obesity & Lifestyle Analytics](https://github.com/julia-anlo/obesity-lifestyle-analytics) 
+
 **Live app:** [obesity-risk-app.streamlit.app](https://customer-health-risk-app-jeq2vsnmwtabjeforkgvtj.streamlit.app)  
 > ⚠️ Hosted on Streamlit free tier — if the app is sleeping, click **"Yes, get this app back up!"** and wait ~30 seconds.
 ---
